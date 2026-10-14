@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.avgrobo999.minevrexplore",
+    "sha256_cert_fingerprints": ["E7:72:AF:E7:E3:6F:1A:C1:B6:BD:D4:DB:BF:26:F1:AF:CD:91:01:87:7F:7C:9C:61:11:4E:EB:0C:09:3C:D9:5E"]
+  }
+}]
